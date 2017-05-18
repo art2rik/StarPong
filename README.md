@@ -1,3 +1,4 @@
 # StarPong
-The clone of popular game "Pong"
-** Test **
+The Java-maded clone of popular  **Pong** game.
+
+Compile then launch.
